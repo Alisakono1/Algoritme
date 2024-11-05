@@ -24,7 +24,7 @@ public class SimpleArrayAndList {
         do {
             System.out.println("Hello!");
             a++;
-        } while (a < b);
+        } while (a <= b);
 
         int r;
         do {
